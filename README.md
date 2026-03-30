@@ -105,7 +105,6 @@ It demonstrates the ability to **analyze business performance** using queries, a
 - Profit margin calculations  
 - Handling realistic datasets
 
-!DASHBOARD
-(dashboard-powerB.png)
+!DASHBOARD(dashboard-powerB.png)
 
 
