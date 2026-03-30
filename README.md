@@ -62,5 +62,47 @@ The dataset includes 100 records with the following columns:
 
 ---
 
-## 📌 Author
-**Jenny Elui** – Aspiring Data Analyst  
+## 📌 Auth# SQL Sales Analysis 📊
+
+This project is a **Sales Analysis** using SQL queries on realistic sales data.  
+It demonstrates the ability to **analyze business performance** using queries, aggregation, and ranking.
+
+---
+
+## 🛠 Tools Used
+- SQL (MySQL / SQL Server)
+- Excel (for dataset creation)
+
+---
+
+## 📂 Dataset
+- The dataset includes 100+ rows with the following columns:
+  - `order_date` → Date of order
+  - `product` → Product name
+  - `category` → Product category
+  - `region` → Sales region
+  - `sales` → Sales amount
+  - `quantity` → Number of units sold
+  - `profit` → Profit from each sale
+
+---
+
+## 🔍 Key Analysis Queries
+- Total Sales, Profit, and Quantity  
+- Sales and Profit by Region  
+- Sales by Product Category  
+- Top Selling Products  
+- Monthly Sales Trends  
+- Profit Margin Calculation  
+- Product Ranking by Sales (Using RANK / Window Functions)
+
+---
+
+## 💡 Key Learnings
+- Data aggregation using `SUM`, `GROUP BY`  
+- Filtering and sorting data  
+- Window functions (`RANK`) for ranking  
+- Profit margin calculations  
+- Handling realistic datasets
+
+
