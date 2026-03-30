@@ -106,6 +106,6 @@ It demonstrates the ability to **analyze business performance** using queries, a
 - Handling realistic datasets
 
 !DASHBOARD
-(https://user-images.githubusercontent.com/username/.../dashboard-powerB.png)
+(https://user-images.githubusercontent.com/duaashahid-1/.../dashboard-powerB.png)
 
 
