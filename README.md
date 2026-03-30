@@ -105,6 +105,6 @@ It demonstrates the ability to **analyze business performance** using queries, a
 - Profit margin calculations  
 - Handling realistic datasets
 
-
+https://github.com/duaashahid-1/PowerBI-Sales-Dashboard/blob/main/dashboard-powerB.png
 
 
