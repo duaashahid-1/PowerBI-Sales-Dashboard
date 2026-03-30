@@ -107,4 +107,4 @@ It demonstrates the ability to **analyze business performance** using queries, a
 
 https://github.com/duaashahid-1/PowerBI-Sales-Dashboard/blob/main/dashboard-powerB.png
 
-
+https://github.com/duaashahid-1/PowerBI-Sales-Dashboard/blob/b2c946afe0a45246a59ae27d1289928a6ec6b586/dashboard-powerB.png
