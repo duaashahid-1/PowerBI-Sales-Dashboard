@@ -1,6 +1,5 @@
 # PowerBI-Sales-Dashboard
-Interactive sales dashboard created with Power BI
-# Power BI Sales Dashboard
+
 
 ## 📊 Project Overview
 This project is an interactive **Sales Performance Dashboard** created using **Power BI**.  
